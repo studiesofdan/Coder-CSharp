@@ -8,6 +8,7 @@ namespace Coder_CSharp {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Exercicios},
+                {"Comentarios - Fundamentos", Comentarios.Exercicios},
             });
 
             central.SelecionarEExecutar();
