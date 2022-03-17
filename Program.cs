@@ -12,6 +12,7 @@ namespace Coder_CSharp {
                 {"Variaveis e Constantes - Fundamentos", VariaveisEConstantes.Exercicios},
                 {"Inferencia - Fundamentos", Inferencia.Exercicios},
                 {"Interpolacao - Fundamentos", Interpolacao.Exercicios},
+                {"Notacao Ponto - Fundamentos", NotacaoPonto.Exercicios},
             });
 
             central.SelecionarEExecutar();
