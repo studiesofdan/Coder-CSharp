@@ -14,6 +14,7 @@ namespace Coder_CSharp {
                 {"Interpolacao - Fundamentos", Interpolacao.Exercicios},
                 {"Notacao Ponto - Fundamentos", NotacaoPonto.Exercicios},
                 {"Leitura de dados do console - Fundamentos", LeituraDadosConsole.Exercicios},
+                {"Formatar numeros - Fundamentos", FormatarNumeros.Exercicios},
             });
 
             central.SelecionarEExecutar();
