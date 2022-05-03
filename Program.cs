@@ -16,6 +16,7 @@ namespace Coder_CSharp {
                 {"Leitura de dados do console - Fundamentos", LeituraDadosConsole.Exercicios},
                 {"Formatar numeros - Fundamentos", FormatarNumeros.Exercicios},
                 {"Conversoes - Fundamentos", Conversoes.Exercicios},
+                {"Operadores Aritmeticos - Fundamentos", OperadoresAritmeticos.Exercicios},
             });
 
             central.SelecionarEExecutar();
