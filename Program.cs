@@ -15,6 +15,7 @@ namespace Coder_CSharp {
                 {"Notacao Ponto - Fundamentos", NotacaoPonto.Exercicios},
                 {"Leitura de dados do console - Fundamentos", LeituraDadosConsole.Exercicios},
                 {"Formatar numeros - Fundamentos", FormatarNumeros.Exercicios},
+                {"Conversoes - Fundamentos", Conversoes.Exercicios},
             });
 
             central.SelecionarEExecutar();
