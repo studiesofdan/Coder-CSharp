@@ -19,6 +19,7 @@ namespace Coder_CSharp {
                 {"Operadores Aritmeticos - Fundamentos", OperadoresAritmeticos.Exercicios},
                 {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Exercicios},
                 {"Operadores Logicos - Fundamentos", OperadoresLogicos.Exercicios},
+                {"Operadores de atribuicao - Fundamentos", OperadoresDeAtribuicao.Exercicios},
             });
 
             central.SelecionarEExecutar();
