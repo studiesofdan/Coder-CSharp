@@ -17,6 +17,7 @@ namespace Coder_CSharp {
                 {"Formatar numeros - Fundamentos", FormatarNumeros.Exercicios},
                 {"Conversoes - Fundamentos", Conversoes.Exercicios},
                 {"Operadores Aritmeticos - Fundamentos", OperadoresAritmeticos.Exercicios},
+                {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Exercicios},
             });
 
             central.SelecionarEExecutar();
