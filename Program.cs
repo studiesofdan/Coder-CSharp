@@ -1,12 +1,14 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 using Coder_CSharp.Fundamentos;
+using Coder_CSharp.EstruturasDeControle;
 
 namespace Coder_CSharp {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+                // Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Exercicios},
                 {"Comentarios - Fundamentos", Comentarios.Exercicios},
                 {"Variaveis e Constantes - Fundamentos", VariaveisEConstantes.Exercicios},
@@ -22,6 +24,9 @@ namespace Coder_CSharp {
                 {"Operadores de atribuicao - Fundamentos", OperadoresDeAtribuicao.Exercicios},
                 {"Operadores Unarios - Fundamentos", OperadoresUnarios.Exercicios},
                 {"Operadores Ternarios - Fundamentos", OperadoresTernarios.Exercicios},
+                
+                // Estruturas de Controle
+                {"Estrutura IF - Estruturas de Controle", EstruturaIf.Exercicios},
             });
 
             central.SelecionarEExecutar();
