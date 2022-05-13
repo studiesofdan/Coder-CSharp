@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 using Coder_CSharp.Fundamentos;
@@ -27,6 +27,7 @@ namespace Coder_CSharp {
                 
                 // Estruturas de Controle
                 {"Estrutura IF - Estruturas de Controle", EstruturaIf.Exercicios},
+                {"Estrutura IF/ELSE - Estruturas de Controle", EstruturaIfElse.Exercicios},
             });
 
             central.SelecionarEExecutar();
