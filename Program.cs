@@ -31,6 +31,7 @@ namespace Coder_CSharp {
                 {"Estrutura IF/ELSE IF - Estruturas de Controle", EstruturaIfElseIf.Exercicios},
                 {"Estrutura Switch - Estruturas de Controle", EstruturaSwitch.Exercicios},
                 {"Estrutura While - Estruturas de Controle", EstruturaWhile.Exercicios},
+                {"Estrutura Do/While - Estruturas de Controle", EstruturaDoWhile.Exercicios},
             });
 
             central.SelecionarEExecutar();
