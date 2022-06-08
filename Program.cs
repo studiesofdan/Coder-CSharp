@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 using Coder_CSharp.Fundamentos;
@@ -33,6 +33,7 @@ namespace Coder_CSharp {
                 {"Estrutura While - Estruturas de Controle", EstruturaWhile.Exercicios},
                 {"Estrutura Do/While - Estruturas de Controle", EstruturaDoWhile.Exercicios},
                 {"Estrutura FOR - Estruturas de Controle", EstruturaFor.Exercicios},
+                {"Estrutura FOREACH - Estruturas de Controle", EstruturaForeach.Exercicios},
             });
 
             central.SelecionarEExecutar();
