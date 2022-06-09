@@ -35,6 +35,7 @@ namespace Coder_CSharp {
                 {"Estrutura FOR - Estruturas de Controle", EstruturaFor.Exercicios},
                 {"Estrutura FOREACH - Estruturas de Controle", EstruturaForeach.Exercicios},
                 {"Estrutura Break - Estruturas de Controle", EstruturaBreak.Exercicios},
+                {"Estrutura Continue - Estruturas de Controle", EstruturaContinue.Exercicios},
             });
 
             central.SelecionarEExecutar();
