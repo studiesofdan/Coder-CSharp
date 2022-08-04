@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 using Coder_CSharp.Fundamentos;
 using Coder_CSharp.EstruturasDeControle;
+using Coder_CSharp.ClassesEMetodos;
 
 namespace Coder_CSharp {
     class Program {
@@ -36,6 +37,9 @@ namespace Coder_CSharp {
                 {"Estrutura FOREACH - Estruturas de Controle", EstruturaForeach.Exercicios},
                 {"Estrutura Break - Estruturas de Controle", EstruturaBreak.Exercicios},
                 {"Estrutura Continue - Estruturas de Controle", EstruturaContinue.Exercicios},
+                
+                // Classes e Metodos
+                {"Membros - Classes e Metodos", Membros.Exercicios},
             });
 
             central.SelecionarEExecutar();
