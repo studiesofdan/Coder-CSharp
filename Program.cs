@@ -1,9 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 using Coder_CSharp.Fundamentos;
 using Coder_CSharp.EstruturasDeControle;
 using Coder_CSharp.ClassesEMetodos;
+using Coder_CSharp.ClassesEMetodos.Construtores;
 
 namespace Coder_CSharp {
     class Program {
@@ -40,6 +41,7 @@ namespace Coder_CSharp {
                 
                 // Classes e Metodos
                 {"Membros - Classes e Metodos", Membros.Exercicios},
+                {"Construtores - Classes e Metodos", Construtores.Exercicios},
             });
 
             central.SelecionarEExecutar();
