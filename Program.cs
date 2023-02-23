@@ -6,6 +6,7 @@ using Coder_CSharp.EstruturasDeControle;
 using Coder_CSharp.ClassesEMetodos;
 using Coder_CSharp.ClassesEMetodos.Construtores;
 using Coder_CSharp.ClassesEMetodos._03___MetodosComRetorno;
+using Coder_CSharp.ClassesEMetodos._04___MetodosEstaticos;
 
 namespace Coder_CSharp {
     class Program {
@@ -44,7 +45,7 @@ namespace Coder_CSharp {
                 {"Membros - Classes e Metodos", Membros.Exercicios},
                 {"Construtores - Classes e Metodos", Construtores.Exercicios},
                 {"Metodos com retorno  - Classes e Metodos", MetodosComRetorno.Exercicios},
-                
+                {"Metodos Estaticos  - Classes e Metodos", MetodosEstaticos.Exercicios},
             });
 
             central.SelecionarEExecutar();
